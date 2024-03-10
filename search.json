@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "babelRStudio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.de.html",
+    "href": "about.de.html",
+    "title": "About",
+    "section": "",
+    "text": "Über diese Website"
+  },
+  {
+    "objectID": "index.de.html",
+    "href": "index.de.html",
+    "title": "babelRStudio",
+    "section": "",
+    "text": "Translate to germanThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
